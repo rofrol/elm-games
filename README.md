@@ -94,3 +94,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/sonnym/scorched
 - https://github.com/sonnym/petrov
 - https://github.com/fbonetti/clicker-game
+- https://github.com/monsieurcactus/LearnElm/
