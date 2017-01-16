@@ -79,6 +79,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - game of life https://github.com/eniac314/elmGol
   - http://www.uminokirin.com/
   - http://stackoverflow.com/questions/39955312/elm-game-of-life-program-becomes-unresponsive-is-there-a-way-to-fail-gracefull
+  - https://github.com/fbonetti/elm-game-of-life
 - https://github.com/maxsnew/Scramble
 - https://github.com/w0rm/elm-mogee
   - http://unsoundscapes.com/slides/2016-05-10-mogee-or-how-i-fit-elm-in-a-64x64-grid/
@@ -92,3 +93,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/nwjlyons/retrorace
 - https://github.com/sonnym/scorched
 - https://github.com/sonnym/petrov
+- https://github.com/fbonetti/clicker-game
