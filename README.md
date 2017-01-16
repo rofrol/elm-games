@@ -95,3 +95,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/sonnym/petrov
 - https://github.com/fbonetti/clicker-game
 - https://github.com/monsieurcactus/LearnElm/
+- memory game https://github.com/simonewebdesign/elm-simon
