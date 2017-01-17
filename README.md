@@ -97,3 +97,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/monsieurcactus/LearnElm/
 - memory game https://github.com/simonewebdesign/elm-simon
 - https://github.com/roSievers/elm-sweeper
+- https://github.com/bahalperin/planeshift
