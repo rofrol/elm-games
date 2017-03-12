@@ -10,6 +10,11 @@
 - https://github.com/nwjlyons/snake
 - https://github.com/ktonon/word-snake
 
+## Testris
+
+- https://github.com/jcollard/elmtris
+- https://github.com/hoelzro/elm-tetris
+
 ## Rest
 
 There is also separate repository for gamedev: [Elm Game Development](https://github.com/rofrol/awesome-elm-gamedev)
@@ -27,9 +32,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/avh4/wire-game
 - https://github.com/BlackBrane/destroid
 - https://github.com/slawrence/vessel
-- testris
-  - https://github.com/jcollard/elmtris
-  - https://github.com/hoelzro/elm-tetris
+
 - An intro to games in Elm http://elm-lang.org/blog/making-pong
 - https://github.com/etaque/tacks
 - https://github.com/mgold/Sequence-Maze
@@ -105,3 +108,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - memory game https://github.com/simonewebdesign/elm-simon
 - https://github.com/roSievers/elm-sweeper
 - https://github.com/bahalperin/planeshift
+- https://github.com/rommsen/elm-dots-and-boxes
