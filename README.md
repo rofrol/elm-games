@@ -15,6 +15,11 @@
 - https://github.com/jcollard/elmtris
 - https://github.com/hoelzro/elm-tetris
 
+## Roguelike
+
+- Roguelike https://github.com/sindikat/roguelike
+- https://github.com/deadfoxygrandpa/Roguelike
+
 ## Rest
 
 There is also separate repository for gamedev: [Elm Game Development](https://github.com/rofrol/awesome-elm-gamedev)
@@ -73,7 +78,6 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - Elm 0.17
     - https://gist.github.com/pdamoc/fd29925b8e20dd92e91c5b75e6c3711e
     - https://groups.google.com/forum/#!topic/elm-discuss/1aQLki2sUrY
-- Roguelike https://github.com/sindikat/roguelike
 - elmsteroids
   - http://yupferris.github.io/elmsteroids/
   - https://github.com/yupferris/elmsteroids
