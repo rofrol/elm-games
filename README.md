@@ -1,5 +1,17 @@
 # All Elm Games (hopefully)
 
+## Snake
+
+- https://github.com/liubko/elm-snake
+  - http://www.slideshare.net/theburningmonk/my-adventure-with-elm
+- https://github.com/rkrupinski/elm-snake
+- Dead link http://elm-by-example.org/chapter14snakerevisited.html
+- http://www.elmfiddle.io/view/ciohidiwb0000ittvijce7hy5
+- https://github.com/nwjlyons/snake
+- https://github.com/ktonon/word-snake
+
+## Rest
+
 There is also separate repository for gamedev: [Elm Game Development](https://github.com/rofrol/awesome-elm-gamedev)
 
 - https://github.com/danneu/melted-synapse
@@ -8,8 +20,8 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/danneu/elm-hex-grid
 - https://github.com/danneu/infinite-monkey-incremental
 - https://github.com/avh4/elm-mario
-- https://github.com/liubko/elm-snake
-  - http://www.slideshare.net/theburningmonk/my-adventure-with-elm
+
+
 - https://github.com/jvoigtlaender/labyrinth-elm
 - https://github.com/johnpmayer/celestia
 - https://github.com/avh4/wire-game
@@ -29,11 +41,6 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/grzegorzbalcerek/chess-elm
 - https://github.com/Lopi/HackMan
 - https://github.com/bamboo/take-the-blue-pills
-- snake
-  - Dead link http://elm-by-example.org/chapter14snakerevisited.html
-  - http://www.elmfiddle.io/view/ciohidiwb0000ittvijce7hy5
-  - https://github.com/nwjlyons/snake
-  - https://github.com/ktonon/word-snake
 - elm rocket lander
   - https://blog.wearewizards.io/rocket-lander-in-elm-extra/ship.html
   - https://github.com/WeAreWizards/elm-rocket-lander
