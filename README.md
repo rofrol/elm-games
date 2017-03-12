@@ -109,3 +109,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/roSievers/elm-sweeper
 - https://github.com/bahalperin/planeshift
 - https://github.com/rommsen/elm-dots-and-boxes
+- https://github.com/jeanettehead/lady-boggle
