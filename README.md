@@ -100,6 +100,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/w0rm/elm-nim
 - https://github.com/mxgrn/pairs.one
 - pacman WIP https://github.com/abadi199/elman
+- Coding-Dojo : Pacman in ELM https://github.com/duckmole/elm-pacman
 - https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial
 - https://github.com/jamonholmgren/rocket-elm
 - https://github.com/jinjor/elm-reversi
