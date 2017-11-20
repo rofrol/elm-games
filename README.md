@@ -9,6 +9,7 @@
 - http://www.elmfiddle.io/view/ciohidiwb0000ittvijce7hy5
 - https://github.com/nwjlyons/snake
 - https://github.com/ktonon/word-snake
+- http://freiguy1.gitlab.io/elm-snake/
 
 ## Testris
 
