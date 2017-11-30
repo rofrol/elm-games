@@ -11,10 +11,11 @@
 - https://github.com/ktonon/word-snake
 - http://freiguy1.gitlab.io/elm-snake/
 
-## Testris
+## Tetris
 
 - https://github.com/jcollard/elmtris
 - https://github.com/hoelzro/elm-tetris
+- https://github.com/marcospri/elmtris
 
 ## Roguelike
 
