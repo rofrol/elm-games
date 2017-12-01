@@ -73,6 +73,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
     - https://groups.google.com/forum/#!topic/elm-discuss/1aQLki2sUrY
 - Pong
   - http://elm-lang.org/blog/making-pong
+  - https://github.com/pristap/pong
   - https://github.com/davydog187/elm-pong
   - https://github.com/rmies/fp-ams-elm/blob/master/Pong.elm
   - https://github.com/r00k/elm-pong
