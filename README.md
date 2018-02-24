@@ -120,3 +120,5 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/jeanettehead/lady-boggle
 - A "tunnel" game https://github.com/slawrence/vessel
 - Genetic Space Invaders game https://github.com/j1nma/genetic-space-invaders
+- https://github.com/w0rm/elm-cubik
+  - https://discourse.elm-lang.org/t/open-sourcing-the-rubiks-cube-game/746
