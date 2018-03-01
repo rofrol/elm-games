@@ -122,3 +122,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Genetic Space Invaders game https://github.com/j1nma/genetic-space-invaders
 - https://github.com/w0rm/elm-cubik
   - https://discourse.elm-lang.org/t/open-sourcing-the-rubiks-cube-game/746
+- https://github.com/krzysu/elm-sokoban-player
