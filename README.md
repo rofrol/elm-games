@@ -22,6 +22,10 @@
 - Roguelike https://github.com/sindikat/roguelike
 - https://github.com/deadfoxygrandpa/Roguelike
 
+## Chess
+- https://github.com/grzegorzbalcerek/chess-elm
+- https://github.com/girishso/indian-chess
+
 ## Rest
 
 There is also separate repository for gamedev: [Elm Game Development](https://github.com/rofrol/awesome-elm-gamedev)
@@ -48,7 +52,6 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/sonnym/elm-expressway_pong
 - https://github.com/ohanhi/elmvaders
 - https://github.com/FireflyLogic/pewpew
-- https://github.com/grzegorzbalcerek/chess-elm
 - https://github.com/Lopi/HackMan
 - https://github.com/bamboo/take-the-blue-pills
 - elm rocket lander
