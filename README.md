@@ -26,6 +26,10 @@
 - https://github.com/grzegorzbalcerek/chess-elm
 - https://github.com/girishso/indian-chess
 
+## Real-Time Strategy
+
+- https://play.drtsgame.com
+
 ## Rest
 
 There is also separate repository for gamedev: [Elm Game Development](https://github.com/rofrol/awesome-elm-gamedev)
