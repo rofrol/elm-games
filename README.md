@@ -29,6 +29,7 @@
 ## Real-Time Strategy
 
 - https://play.drtsgame.com
+- https://github.com/xarvh/herzog-drei/
 
 ## Rest
 
