@@ -10,6 +10,7 @@
 - https://github.com/nwjlyons/snake
 - https://github.com/ktonon/word-snake
 - http://freiguy1.gitlab.io/elm-snake/
+- https://github.com/tibastral/elm-snake
 
 ## Tetris
 
