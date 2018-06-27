@@ -32,6 +32,29 @@
 - https://play.drtsgame.com
 - https://github.com/xarvh/herzog-drei/
 
+## breakout
+
+- http://daiw.de/games/breakout/
+- https://github.com/Dobiasd/Breakout
+- https://github.com/kbaba1001/elm-breakout
+- https://github.com/hoelzro/elm-breakout
+  
+## Pong
+  
+- http://elm-lang.org/blog/making-pong
+- https://github.com/pristap/pong
+- https://github.com/davydog187/elm-pong
+- https://github.com/rmies/fp-ams-elm/blob/master/Pong.elm
+- https://github.com/r00k/elm-pong
+- https://github.com/bado22/elm-pong
+- Elm 0.17
+  - https://gist.github.com/pdamoc/fd29925b8e20dd92e91c5b75e6c3711e
+  - https://groups.google.com/forum/#!topic/elm-discuss/1aQLki2sUrY
+
+## Tower defense
+
+- https://github.com/JoelQ/safe-tea
+
 ## Rest
 
 There is also separate repository for gamedev: [Elm Game Development](https://github.com/rofrol/awesome-elm-gamedev)
@@ -68,11 +91,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/etaque/tacks
 - https://github.com/zalando/elm-street-404
 - https://github.com/w0rm/elm-flatris
-- breakout
-  - http://daiw.de/games/breakout/
-  - https://github.com/Dobiasd/Breakout
-  - https://github.com/kbaba1001/elm-breakout
-  - https://github.com/hoelzro/elm-breakout
+
 - Mario
   - https://github.com/elm-lang/debug.elm-lang.org/blob/master/examples/Mario.elm
   - https://github.com/elm-lang/debug.elm-lang.org/tree/master/resources/imgs/mario
@@ -80,16 +99,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - Elm 0.17
     - https://gist.github.com/pdamoc/6f7aa2d3774e5af58ebeba369637c228
     - https://groups.google.com/forum/#!topic/elm-discuss/1aQLki2sUrY
-- Pong
-  - http://elm-lang.org/blog/making-pong
-  - https://github.com/pristap/pong
-  - https://github.com/davydog187/elm-pong
-  - https://github.com/rmies/fp-ams-elm/blob/master/Pong.elm
-  - https://github.com/r00k/elm-pong
-  - https://github.com/bado22/elm-pong
-  - Elm 0.17
-    - https://gist.github.com/pdamoc/fd29925b8e20dd92e91c5b75e6c3711e
-    - https://groups.google.com/forum/#!topic/elm-discuss/1aQLki2sUrY
+
 - elmsteroids
   - http://yupferris.github.io/elmsteroids/
   - https://github.com/yupferris/elmsteroids
@@ -133,7 +143,3 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - https://discourse.elm-lang.org/t/open-sourcing-the-rubiks-cube-game/746
 - https://github.com/krzysu/elm-sokoban-player
 - https://github.com/stefankreitmayer/elm-joust
-
-## Tower defense
-
-- https://github.com/JoelQ/safe-tea
