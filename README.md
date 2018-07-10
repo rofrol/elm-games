@@ -146,5 +146,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/tibastral/elm-koala
 - https://github.com/brandly/elm-slime-volleyball [[play]](https://brandly.github.io/elm-slime-volleyball/)
 - https://github.com/brandly/elm-minesweeper [[play]](https://brandly.github.io/elm-minesweeper/)
-- https://github.com/JoelQ/safe-tea
 - https://github.com/JoelQ/down-the-river
