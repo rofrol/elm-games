@@ -144,3 +144,5 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/krzysu/elm-sokoban-player
 - https://github.com/stefankreitmayer/elm-joust
 - https://github.com/tibastral/elm-koala
+- https://github.com/brandly/elm-slime-volleyball [[play]](https://brandly.github.io/elm-slime-volleyball/)
+- https://github.com/brandly/elm-minesweeper [[play]](https://brandly.github.io/elm-minesweeper/)
