@@ -151,3 +151,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - https://github.com/JordyMoos/elm-pixel-boulder-game
 - https://github.com/cbenz/elm-bridge-game
 - https://github.com/odedw/elm-plane
+- https://github.com/battermann/elm-samegame
