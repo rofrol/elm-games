@@ -11,6 +11,7 @@
 - https://github.com/ktonon/word-snake
 - http://freiguy1.gitlab.io/elm-snake/
 - https://github.com/tibastral/elm-snake
+- https://github.com/MartinSnyder/elm-snake
 
 ## Tetris
 
