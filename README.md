@@ -77,13 +77,13 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Elm 0.16
   - [simonewebdesign/elm-simon](https://github.com/simonewebdesign/elm-simon) - Memory Game.
 - Elm 0.15
-  - [Cape Match](https://github.com/krisajenkins/cardmatch) - Memory Clone. A little web game written in Elm (with some Haskell). [[play]](http://krisajenkins.github.io/cardmatch)
+  - [Cape Match](https://github.com/krisajenkins/cardmatch) - A little web game written in Elm (with some Haskell). [[play]](http://krisajenkins.github.io/cardmatch)
 
 ### Asteroid
 - Elm 0.17
-  - [Elmsteroids](https://github.com/yupferris/elmsteroids) - Asteroid Game. A non-trivial Asteroids clone. [[play]](http://yupferris.github.io/elmsteroids)
+  - [Elmsteroids](https://github.com/yupferris/elmsteroids) - A non-trivial Asteroids clone. [[play]](http://yupferris.github.io/elmsteroids)
 - Elm 0.16
-  - [Destroid](https://github.com/BlackBrane/destroid) - Asteroid Game. A space shooter based on the classic Asteroids.
+  - [Destroid](https://github.com/BlackBrane/destroid) - A space shooter based on the classic Asteroids.
 
 ### Pac Man
 - Elm 0.18
@@ -124,7 +124,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [battermann/elm-samegame](https://github.com/battermann/elm-samegame) - SameGame clone. [[play]](https://samegame.surge.sh)
 - Elm 0.18
   - [w0rm/elm-cubik](https://github.com/w0rm/elm-cubik) - This is an implementation of the Rubik's cube puzzle in the Elm language using WebGL. [[doc]](https://discourse.elm-lang.org/t/open-sourcing-the-rubiks-cube-game/746) [[play]](https://unsoundscapes.itch.io/cubik)
-  - [jeanettehead/lady-boggle](https://github.com/jeanettehead/lady-boggle) [[play]] - Boggle Clone. [[play]](http://iamjea.net/elm-boggle/game.html)
+  - [jeanettehead/lady-boggle](https://github.com/jeanettehead/lady-boggle) - Boggle Clone. [[play]](http://iamjea.net/elm-boggle/game.html)
   - [Sokoban Player](https://github.com/krzysu/elm-sokoban-player) - Sokoban Player provides best experience to play any sokoban level you want! [[play]](https://sokoban-player.netlify.com)
   - [w0rm/elm-nim](https://github.com/w0rm/elm-nim) - A live-coded implementation of the [Nim](https://en.wikipedia.org/wiki/Nim) game in Elm as done at Berlin Frontend Meetup. [[doc]](https://unsoundscapes.com/slides/2016-06-07-introduction-to-elm/)
 - Elm 0.12
@@ -132,8 +132,8 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 
 ## Racing Game
 - Elm 0.18
-  - [Tacks](https://github.com/etaque/tacks) - Racing Game. Real-time multiplayer sailing game [[play]](http://www.playtacks.com)
-  - [Retrorace](https://github.com/nwjlyons/retrorace) - Racing Game. Retrorace is a multiplayer game where the aim is to be the first to reach the top of the screen. [[play]](http://retrorace.neillyons.io)
+  - [Tacks](https://github.com/etaque/tacks) - Real-time multiplayer sailing game [[play]](http://www.playtacks.com)
+  - [Retrorace](https://github.com/nwjlyons/retrorace) - Retrorace is a multiplayer game where the aim is to be the first to reach the top of the screen. [[play]](http://retrorace.neillyons.io)
 
 ## Tools
 - Elm 0.18
