@@ -31,7 +31,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Elm 0.18
   - [Dobiasd/Breakout](https://github.com/Dobiasd/Breakout) - A clone of the classical game for your browser. [[play]](http://daiw.de/games/breakout)
   - [hoelzro/elm-breakout](https://github.com/hoelzro/elm-breakout) - An implementation of Breakout.
-- Elm 0.01
+- Elm 0.12
   - [kbaba1001/elm-breakout](https://github.com/kbaba1001/elm-breakout)
 
 ### Pong
@@ -42,7 +42,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [pdamoc/Pong.elm](https://gist.github.com/pdamoc/fd29925b8e20dd92e91c5b75e6c3711e) - Pong Example.
 - Elm 0.16
   - [r00k/elm-pong](https://github.com/r00k/elm-pong)
-- Elm 0.01
+- Elm 0.13
   - [sonnym/elm-expressway_pong](https://github.com/sonnym/elm-expressway_pong) - Multiplayer pong using Node.js and Elm.
 - Making Pong Tutorial [[doc]](http://elm-lang.org/blog/making-pong) - Outdated (from 2012).
 - Dead https://github.com/bado22/elm-pong
