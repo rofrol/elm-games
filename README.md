@@ -127,6 +127,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [jeanettehead/lady-boggle](https://github.com/jeanettehead/lady-boggle) - Boggle Clone. [[play]](http://iamjea.net/elm-boggle/game.html)
   - [Sokoban Player](https://github.com/krzysu/elm-sokoban-player) - Sokoban Player provides best experience to play any sokoban level you want! [[play]](https://sokoban-player.netlify.com)
   - [w0rm/elm-nim](https://github.com/w0rm/elm-nim) - A live-coded implementation of the [Nim](https://en.wikipedia.org/wiki/Nim) game in Elm as done at Berlin Frontend Meetup. [[doc]](https://unsoundscapes.com/slides/2016-06-07-introduction-to-elm/)
+  - [ssimono/hexliterate](https://github.com/ssimono/hexliterate) - Multi-player game where one can test their ability to guess a color hex code. [[play]](https://hex.sa-web.fr/)
 - Elm 0.12
   - [maxsnew/Scramble](https://github.com/maxsnew/Scramble) - Word Scramble Game. [[play]](http://maxsnew.github.io/Scramble)
 
