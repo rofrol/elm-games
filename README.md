@@ -260,7 +260,6 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [puemos/elm-hangman](https://github.com/puemos/elm-hangman) - Hangman Clone. The game of Hangman. [[play]](http://puemos.github.io/elm-hangman)
   - [jamonholmgren/rocket-elm](https://github.com/jamonholmgren/rocket-elm) - Spaceship Game. A small game where you pilot a rocket ship around.
   - [stephenbalaban/Gravity](https://github.com/stephenbalaban/Gravity) - Physic Simulation. An orbital simulation game written in Elm. [[play]](http://www.stephenbalaban.com/wp-content/uploads/2014/11/Gravity.html)
-  - [Hexliterate](https://github.com/ssimono/hexliterate) - Guessing Game. Fun game about guessing hex color code. [[play]](https://hex.sa-web.fr)
   - [joelchelliah/elm-rex](https://github.com/joelchelliah/elm-rex) - Chrome's offline T-rex game written in Elm. [[play]](https://joelchelliah.github.io/elm-rex)
   - [WeAreWizards/elm-rocket-lander](https://github.com/WeAreWizards/elm-rocket-lander) - Rocket lander Game. A simple rocket lander game written in Elm
     - dead https://blog.wearewizards.io/rocket-lander-in-elm-extra/ship.html
