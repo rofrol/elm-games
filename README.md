@@ -75,6 +75,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 
 ### Tic Tac Toe
 - Elm 0.19
+  - [pwadsworth / Tic Tac Elm](https://github.com/pwadsworth/TicTacElm) - Simple Tic Tac Toe to test-drive Elm language features. 
   - [Ultimate Tic-tac-toe](https://github.com/jjst/ultimate-tictactoe) - Tic Tac Toe Clone. An implementation of [ultimate tic-tac-toe](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/) in Elm.
 - Elm 0.18
   - [AllanNozomu/TicTacToe](https://github.com/AllanNozomu/TicTacToe) - Tic Tac Toe Clone.
