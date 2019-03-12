@@ -138,7 +138,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 
 ## Roguelike
 - Elm 0.19
-  - [Dig Dig Boom](https://github.com/Orasund/pixelengine/tree/master/docs/DigDigBoom) - Roguelike with breakable walls. [[play]](https://orasund.itch.io/dig-dig-boom)
+  - [Dig Dig Boom](https://github.com/Orasund/pixelengine/tree/master/examples/DigDigBoom) - Roguelike with breakable walls. [[play]](https://orasund.itch.io/dig-dig-boom)
 - Elm 0.18
   - [mordrax/cotwelm](https://github.com/mordrax/cotwelm) - Remake of Castle of the Winds in Elm. [[play]](http://game.castleofthewinds.com)
 - Elm 0.13
