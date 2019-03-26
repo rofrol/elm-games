@@ -5,7 +5,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 ## Clones of Common Games
 ### Snake
 - Elm 0.19
-  - [MartinSnyder/elm-snake](https://github.com/MartinSnyder/elm-snake) - Implementation of classic game "Snake". [[play]](http://martinsnyder.net/snake)
+  - [MartinSnyder/elm-snake](https://github.com/MartinSnyder/elm-snake) - Implementation of classic game "Snake". [[play]](http://martinsnyder.net/projects/snake.html)
 - Elm 0.18
   - [remyferre/snake-elm](https://github.com/remyferre/snake-elm) - Snake game.
   - [rkrupinski/elm-snake](https://github.com/rkrupinski/elm-snake) - Snake game. [[play]](https://rkrupinski.github.io/elm-snake)
