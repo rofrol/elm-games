@@ -187,6 +187,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [brian-watkins/mindmaster](https://github.com/brian-watkins/mindmaster) - Code Breaking Game in Elm.
   - [Seeds Game](https://github.com/andrewMacmurray/seeds-game) - A connect the dots game with seeds. [[play]](https://www.seedsgame.com/)
   - [battermann/elm-samegame](https://github.com/battermann/elm-samegame) - SameGame clone. [[play]](https://samegame.surge.sh)
+  - [johncrane/perfect-flood](https://gitlab.com/johncrane/perfect-flood) - Drag and drop flood fill game. [[play]](https://johncrane.gitlab.io/perfect-flood/)
 - Elm 0.18
   - [dam5s/mastermind](https://github.com/dam5s/mastermind) - Mastermind Clone.
   - [maorleger/mastermind](https://github.com/maorleger/mastermind) - Interactive Mastermind solver algorithm. [[play]](http://haskellmind.herokuapp.com)
