@@ -128,6 +128,8 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [duckmole/elm-pacman](https://github.com/duckmole/elm-pacman) - Coding-Dojo : Pacman in ELM.
 
 ### Minesweeper
+- Elm 0.19
+  - [SidneyNemzer/casual-minesweeper(https://github.com/SidneyNemzer/casual-minesweeper) - Minesweeper with an undo button. [[play]](https://sidneynemzer.github.io/casual-minesweeper/)
 - Elm 0.18
   - [CarstenKoenig/ElmSweeper](https://github.com/CarstenKoenig/ElmSweeper) - minesweeper game. [[play]](https://carstenkoenig.github.io/ElmSweeper)
   - [lydell/elm-minesweeper](https://github.com/lydell/elm-minesweeper) - The classic game MineSweeper. [[play]](https://lydell.github.io/elm-minesweeper)
