@@ -240,6 +240,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [Mogee](https://github.com/w0rm/elm-mogee) - Platformer game. A WebGL platformer that fits into 64x64px screen. [[doc]](https://www.youtube.com/watch?v=NRXTMaXO15I) [[play]](https://unsoundscapes.itch.io/mogee)
   - [sonnym/scorched](https://github.com/sonnym/scorched) - Turn-based artillery game. A clone of Scorched Earth.
   - [JordyMoos/elm-pixel-boulder-game](https://github.com/JordyMoos/elm-pixel-boulder-game) - Boulder Dash Clone. A bit "out-of-hand" experiment to write a game in a pure functional language. [[play]](https://jordymoos.github.io/elm-pixel-boulder-game)
+  - [wolfadex/slime-buddy](https://github.com/wolfadex/slime-buddy) - get new slime, feed it and play with it. [[play]](https://slime-buddy.netlify.com/)
 - Elm 0.18
   - [listrophy/space_elm](https://github.com/listrophy/space_elm) - Spaceship Game.
   - [Fedreg/elmkc-simon](https://github.com/Fedreg/elmkc-simon) - Simon Says Clone. [[play]](https://github.com/Fedreg/elmkc-simon) [[play]](https://fedreg.github.io/elmkc-simon)
