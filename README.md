@@ -281,6 +281,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [tibastral/elm-koala](https://github.com/tibastral/elm-koala)
   - [brandly/elm-slime-volleyball](https://github.com/brandly/elm-slime-volleyball) - Gravity based game. try to beat the blue slime at volleyball. [[play]](https://brandly.github.io/elm-slime-volleyball/)
   - [Down the River](https://github.com/JoelQ/down-the-river) - Frogger Clone. Roman mythology themed game with procedural generation. [[play]](https://joelq.itch.io/down-the-river)
+  - [https://github.com/wolfadex/dodge/](wolfadex/dodge) - A simple duck and dodge game, avoid the falling objects as long as possible. [[play]](https://wolfadex.github.io/dodge/)
 - Elm 0.17
   - [alexspurling/simonsays](https://github.com/alexspurling/simonsays) - Simon Says Clone. [[play]](http://alexspurling.github.io/simonsays)
   - [Bee](https://github.com/trotha01/bee) - Top Down Game. [[play]](http://trotha01.github.io/bee)
