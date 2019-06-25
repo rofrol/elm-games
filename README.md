@@ -184,6 +184,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 
 ## Puzzle Games
 - Elm 0.19
+  - [stepheneb/elm-2048](https://github.com/stepheneb/elm-2048) - 2048 Clone [[play]](https://stepheneb.github.io/elm-2048/)
   - [darrensiegel/elm-chess](https://github.com/darrensiegel/elm-chess) - Human vs computer chess game.
   - [lieberkind/sokoban](https://github.com/lieberkind/sokoban) - An implementation of the Sokoban game from Windows 3.x. [[play]](http://elm-sokoban.lieberkind.io)
   - [brian-watkins/mindmaster](https://github.com/brian-watkins/mindmaster) - Code Breaking Game in Elm.
