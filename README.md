@@ -63,6 +63,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Making Pong Tutorial [[doc]](http://elm-lang.org/blog/making-pong) - Outdated (from 2012).
 - Dead https://github.com/bado22/elm-pong
 - [rmies/fp-ams-elm](https://github.com/rmies/fp-ams-elm/blob/master/Pong.elm) - Outdated (from 2015).
+- [mitchellwrosen/elm-pong](https://github.com/mitchellwrosen/elm-pong) - Outdated (from 2013)
 
 ### Mario
 - Elm 0.18
