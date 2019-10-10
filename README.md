@@ -73,6 +73,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [kbaba1001/elm-breakout](https://github.com/kbaba1001/elm-breakout)
 
 ### Pong
+- [github search](https://github.com/search?o=desc&q=pong+language%3Aelm&s=updated&type=Repositories)
 - Elm 0.18
   - [pristap/pong](https://github.com/pristap/pong) - Pong written in Elm using [Elmo-8](https://github.com/micktwomey/elmo-8). [[play]](http://www.pristap.com/pong)
   - [davydog187/elm-pong](https://github.com/davydog187/elm-pong) - Pong based on the example from [the Elm-lang website](http://elm-lang.org/blog/making-pong), with some additional features.
