@@ -77,6 +77,8 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Elm 0.19
   - [magopian/elm-pong](https://github.com/magopian/elm-pong) - [making of](http://mathieu.agopian.info/blog/making-a-pong-game-in-elm.html) - [[play]](https://magopian.github.io/elm-pong/)
   - [ukikagi/making-pong-in-elm](https://github.com/ukikagi/making-pong-in-elm) - Pong based on the example from [the Elm-lang website](http://elm-lang.org/blog/making-pong)
+<details><summary>Previous Elm versions</summary>
+
 - Elm 0.18
   - [pristap/pong](https://github.com/pristap/pong) - Pong written in Elm using [Elmo-8](https://github.com/micktwomey/elmo-8). [[play]](http://www.pristap.com/pong)
   - [davydog187/elm-pong](https://github.com/davydog187/elm-pong) - Pong based on the example from [the Elm-lang website](http://elm-lang.org/blog/making-pong), with some additional features.
@@ -90,6 +92,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Dead https://github.com/bado22/elm-pong
 - [rmies/fp-ams-elm](https://github.com/rmies/fp-ams-elm/blob/master/Pong.elm) - Outdated (from 2015).
 - [mitchellwrosen/elm-pong](https://github.com/mitchellwrosen/elm-pong) - Outdated (from 2013)
+</details>
 
 ### Mario
 - Elm 0.18
