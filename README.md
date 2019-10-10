@@ -287,7 +287,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [xyc0562/editor-maze](https://github.com/xyc0562/editor-maze) - Maze Game.
   - [crazymykl/elm-drench](https://github.com/crazymykl/elm-drench) -  Drench Clone. [[play]](https://crazymykl.github.io/elm-drench)
   - [xpilot.io](https://github.com/mpdairy/xpilot.io) - Spaceship Game. a simple xpilot-like game. [[play]](http://xpilot.io)
-  - [billstclair/elm-jsmaze](https://github.com/billstclair/elm-jsmaze) -  Maze Game. A simple networked 2.5D maze game.  [[play]](https://jsmaze.com/) 
+  - [billstclair/mineplace](https://github.com/billstclair/mineplace) -  Maze Game. A simple networked 2.5D maze game.  [[play]](https://mineplace.social/) 
   - [Boxuuume](https://github.com/rinn7e/boxuuume) - Platformer Game. A school project. [[play]](https://rinn7e.github.io/boxuuume)
   - [Janiczek/dwarves](https://github.com/Janiczek/dwarves) - Minimal Dwarf Fortress-like behaviour in Elm. [[play]](https://janiczek.github.io/dwarves/index.html)
   - [alpacaaa/elm-star-dodge](https://github.com/alpacaaa/elm-star-dodge) - Dodge Game. A simple star dodge game clone.
