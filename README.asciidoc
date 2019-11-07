@@ -1,12 +1,9 @@
-All Elm Games (hopefully)
--------------------------
+= All Elm Games (hopefully)
+:toc:
+:toclevels: 5
 
 There is also separate repository for gamedev:
 https://github.com/rofrol/awesome-elm-gamedev[Elm Game Development]
-
-Table of Contents
-~~~~~~~~~~~~~~~~~
-:toc:
 
 Clones of Common Games
 ~~~~~~~~~~~~~~~~~~~~~~
