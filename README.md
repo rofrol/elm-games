@@ -4,28 +4,30 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 
 ## Table of Contents
 
-  * [Clones of Common Games](#clones-of-common-games)
-	 * [Snake](#snake)
-	 * [Tetris](#tetris)
-	 * [Breakout](#breakout)
-	 * [Pong](#pong)
-	 * [Mario](#mario)
-	 * [Tic Tac Toe](#tic-tac-toe)
-	 * [Space Invaders](#space-invaders)
-	 * [Memory](#memory)
-	 * [Asteroid](#asteroid)
-	 * [Pac Man](#pac-man)
-	 * [Minesweeper](#minesweeper)
-  * [Roguelike](#roguelike)
-  * [Classic Card &amp; Board Game](#classic-card--board-game)
-  * [Real-Time Strategy](#real-time-strategy)
-  * [Puzzle Games](#puzzle-games)
-  * [Racing Game](#racing-game)
-  * [Tools](#tools)
-  * [Miscellaneous](#miscellaneous)
+- [Clones of Common Games](#clones-of-common-games)
+  - [Snake](#snake)
+  - [Tetris](#tetris)
+  - [Breakout](#breakout)
+  - [Pong](#pong)
+  - [Mario](#mario)
+  - [Tic Tac Toe](#tic-tac-toe)
+  - [Space Invaders](#space-invaders)
+  - [Memory](#memory)
+  - [Asteroid](#asteroid)
+  - [Pac Man](#pac-man)
+  - [Minesweeper](#minesweeper)
+- [Roguelike](#roguelike)
+- [Classic Card &amp; Board Game](#classic-card--board-game)
+- [Real-Time Strategy](#real-time-strategy)
+- [Puzzle Games](#puzzle-games)
+- [Racing Game](#racing-game)
+- [Tools](#tools)
+- [Miscellaneous](#miscellaneous)
 
 ## Clones of Common Games
+
 ### Snake
+
 - Elm 0.19
   - [MartinSnyder/elm-snake](https://github.com/MartinSnyder/elm-snake) - Implementation of classic game "Snake". [[play]](http://martinsnyder.net/projects/snake.html)
   - [amarantedaniel/snek](https://github.com/amarantedaniel/snek) - Another implementation of Snake. [[play]](https://www.amarantedaniel.com/snek)
@@ -52,9 +54,10 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Elm 0.14
   - [Chapter 14 Snake Revisited](https://github.com/grzegorzbalcerek/elm-by-example/blob/master/Chapter14SnakeRevisited.elm) - Part of the elm-by-example book.
 - Dead http://www.elmfiddle.io/view/ciohidiwb0000ittvijce7hy5
-</details>
+  </details>
 
 ### Tetris
+
 - Elm 0.19
   - [TobiasWen/3DelmTRIS](https://github.com/TobiasWen/3DelmTRIS) - 3D Tetris utilizing WebGL. [[play]](https://tobiaswen.github.io/3DelmTRIS/)
   - [brandly/elm-dr-mario](https://github.com/brandly/elm-dr-mario) - A Dr. Mario Clone. [[play]](https://brandly.github.io/elm-dr-mario)
@@ -68,21 +71,25 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [jcollard/elmtris](https://github.com/jcollard/elmtris) - A Tetris game for the web browser.
 
 ### Breakout
+
 - Elm 0.18
   - [granmoe/elm-brick-breaker](https://github.com/granmoe/elm-brick-breaker) - A stripped down brick breaker game. [[play]](https://granmoe.github.io/elm-brick-breaker)
   - [Dobiasd/Breakout](https://github.com/Dobiasd/Breakout) - A clone of the classical game for your browser. [[play]](http://daiw.de/games/breakout)
   - [hoelzro/elm-breakout](https://github.com/hoelzro/elm-breakout) - An implementation of Breakout.
+  - [robbethencourt/elm-breakout](https://github.com/robbethencourt/elm-breakout) - Atari 2600 Breakout clone. [[play]](https://robbethencourt.github.io/elm-breakout/build/)
 - Elm 0.17
   - [griffinmichl/elm-brickbreaker](https://github.com/griffinmichl/elm-brickbreaker) - Breakout Clone.
 - Elm 0.12
   - [kbaba1001/elm-breakout](https://github.com/kbaba1001/elm-breakout)
 
 ### Pong
+
 - [github search](https://github.com/search?o=desc&q=pong+language%3Aelm&s=updated&type=Repositories)
 - Elm 0.19
+
   - [magopian/elm-pong](https://github.com/magopian/elm-pong) - [making of](http://mathieu.agopian.info/blog/making-a-pong-game-in-elm.html) - [[play]](https://magopian.github.io/elm-pong/)
   - [ukikagi/making-pong-in-elm](https://github.com/ukikagi/making-pong-in-elm) - Pong based on the example from [the Elm-lang website](http://elm-lang.org/blog/making-pong)
-<details><summary>Previous Elm versions</summary>
+    <details><summary>Previous Elm versions</summary>
 
 - Elm 0.18
   - [pristap/pong](https://github.com/pristap/pong) - Pong written in Elm using [Elmo-8](https://github.com/micktwomey/elmo-8). [[play]](http://www.pristap.com/pong)
@@ -97,9 +104,10 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Dead https://github.com/bado22/elm-pong
 - [rmies/fp-ams-elm](https://github.com/rmies/fp-ams-elm/blob/master/Pong.elm) - Outdated (from 2015).
 - [mitchellwrosen/elm-pong](https://github.com/mitchellwrosen/elm-pong) - Outdated (from 2013)
-</details>
+  </details>
 
 ### Mario
+
 - Elm 0.18
   - [avh4/elm-mario](https://github.com/avh4/elm-mario) - The Elm Mario example from the Elm-lang website. [[play]](https://avh4.github.io/elm-mario)
 - Elm 0.17
@@ -110,8 +118,9 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [Evan's Mario Example](https://github.com/elm-lang/debug.elm-lang.org/blob/master/examples/Mario.elm) [[resources]](https://github.com/elm-lang/debug.elm-lang.org/tree/master/resources/imgs/mario) - Original example for mario in elm.
 
 ### Tic Tac Toe
+
 - Elm 0.19
-  - [pwadsworth/TicTacElm](https://github.com/pwadsworth/TicTacElm) - Simple Tic Tac Toe to test-drive Elm language features. 
+  - [pwadsworth/TicTacElm](https://github.com/pwadsworth/TicTacElm) - Simple Tic Tac Toe to test-drive Elm language features.
   - [jjst/ultimate-tictactoe](https://github.com/jjst/ultimate-tictactoe) - Tic Tac Toe Clone. An implementation of [ultimate tic-tac-toe](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/) in Elm.
   - [multiple authors](https://discourse.elm-lang.org/t/incredibly-n00b-question-by-a-2-days-elm-learner/4415/11) - [[play]](https://ellie-app.com/6Qw34t8LXzba1)
   - [brslv/elm-ttt](https://github.com/brslv/elm-ttt) - Tic Tac Toe with video of the creation process https://www.youtube.com/watch?v=XSTtUjPjJzg
@@ -128,9 +137,10 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [amcsi/elm-tic-tac-toe](https://github.com/amcsi/elm-tic-tac-toe) - Tic Tac Toe Clone.
 - Elm 0.16
   - [localshred/tic-tac-toe](https://github.com/localshred/tic-tac-toe) - Tic Tac Toe Clone.
-- [Chapter 12 Tic Tac Toe](https://github.com/grzegorzbalcerek/elm-by-example/blob/master/Chapter12TicTacToe.elm)  - Part of the elm-by-example book. Outdated (from 2015).
+- [Chapter 12 Tic Tac Toe](https://github.com/grzegorzbalcerek/elm-by-example/blob/master/Chapter12TicTacToe.elm) - Part of the elm-by-example book. Outdated (from 2015).
 
 ### Space Invaders
+
 - Elm 0.19
   - [gege251/space_invaders](https://github.com/gege251/space_invaders) - Space Invaders game in Elm.
 - Elm 0.18
@@ -141,6 +151,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [Pew Pew](https://github.com/FireflyLogic/pewpew) - A space shooter game.
 
 ### Memory
+
 - Elm 0.18
   - [alpacaaa/elm-memory-game](https://github.com/alpacaaa/elm-memory-game) - Memory game. [[doc]](https://alpacaaa.net/blog/post/elm-memory-game-from-scratch)
   - [DaZzz/melmory-game](https://github.com/DaZzz/melmory-game) - Memory game.
@@ -154,6 +165,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [Cape Match](https://github.com/krisajenkins/cardmatch) - A little web game written in Elm (with some Haskell). [[play]](http://krisajenkins.github.io/cardmatch)
 
 ### Asteroid
+
 - Elm 0.17
   - [Elmsteroids](https://github.com/yupferris/elmsteroids) - A non-trivial Asteroids clone. [[play]](http://yupferris.github.io/elmsteroids)
 - Elm 0.16
@@ -161,11 +173,13 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [Destroid](https://github.com/BlackBrane/destroid) - A space shooter based on the classic Asteroids.
 
 ### Pac Man
+
 - Elm 0.18
   - [abadi199/elman](https://github.com/abadi199/elman) - Pac Man Clone. [[play]](https://abadi199.github.io/elman)
   - [duckmole/elm-pacman](https://github.com/duckmole/elm-pacman) - Coding-Dojo : Pacman in ELM.
 
 ### Minesweeper
+
 - Elm 0.19
   - [SidneyNemzer/casual-minesweeper](https://github.com/SidneyNemzer/casual-minesweeper) - Minesweeper with an undo button. [[play]](https://sidneynemzer.github.io/casual-minesweeper/)
 - Elm 0.18
@@ -177,6 +191,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [mikegehard/elm-minesweeper](https://github.com/mikegehard/elm-minesweeper) - A minesweeper game. [[play]](http://mikegehard.github.io/elm-minesweeper)
 
 ## Roguelike
+
 - Elm 0.19
   - [Dig Dig Boom](https://github.com/Orasund/pixelengine/tree/master/examples/DigDigBoom) - Roguelike with breakable walls. [[play]](https://orasund.itch.io/dig-dig-boom)
 - Elm 0.18
@@ -186,6 +201,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - [sindikat/roguelike](https://github.com/sindikat/roguelike) - Roguelike draft for testing Elm's Graphics.Collage performance.
 
 ## Classic Card & Board Game
+
 - Elm 0.19
   - [kburton/elm-yahtzee](https://github.com/kburton/elm-yahtzee) - An implementation of the dice game Yahtzee written in elm. [[play]](https://elm-yahtzee.kappasoft.net)
   - [RobStallion/chess-elm](https://github.com/RobStallion/chess-elm) - Trying to create a chess game in elm.
@@ -216,11 +232,13 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [grzegorzbalcerek/chess-elm](https://github.com/grzegorzbalcerek/chess-elm) - The game of Chess written in Elm.
 
 ## Real-Time Strategy
+
 - Elm 0.19
   - [Herzog Drei](https://github.com/xarvh/herzog-drei) - RTS game based on [Herzog Zwei](https://en.wikipedia.org/wiki/Herzog_Zwei). [[play]](https://xarvh.github.io/herzog-drei)
 - DRTS Game [[play]](https://play.drtsgame.com)
 
 ## Puzzle Games
+
 - Elm 0.19
   - [m-masataka/elm-puyo](https://github.com/m-masataka/elm-puyo) - An implementation of the Puyo Puyo [[play]](https://m-masataka.github.io/elm-puyo/)
   - [stepheneb/elm-2048](https://github.com/stepheneb/elm-2048) - 2048 Clone [[play]](https://stepheneb.github.io/elm-2048/)
@@ -250,7 +268,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [marcosh/elm-hanoi](https://github.com/marcosh/elm-hanoi) - Hanoi tower Clone.
   - [ElmLive/lights-out](https://github.com/ElmLive/lights-out) - Light's Out Clone. [[doc]](https://www.youtube.com/watch?v=R6vuO547DC8)
 - Elm 0.16
-  - [erich-9/elm-sudoku](https://github.com/erich-9/elm-sudoku) -  Sudoku. [[play]](https://erich-9.github.io/elm-sudoku)
+  - [erich-9/elm-sudoku](https://github.com/erich-9/elm-sudoku) - Sudoku. [[play]](https://erich-9.github.io/elm-sudoku)
   - [Paint The Town Red](https://github.com/mbylstra/paint-the-town-red) - Coloring game. [[play]](https://mbylstra.github.io/paint-the-town-red)
 - Elm 0.15
   - [adzeitor/tis-100](https://github.com/adzeitor/tis-100) - tis-100 sandbox clone. [[play]](http://adzeitor.github.io/tis-100/)
@@ -259,17 +277,20 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [maxsnew/Scramble](https://github.com/maxsnew/Scramble) - Word Scramble Game. [[play]](http://maxsnew.github.io/Scramble)
 
 ## Racing Game
+
 - Elm 0.18
   - [Tacks](https://github.com/etaque/tacks) - Real-time multiplayer sailing game [[play]](http://www.playtacks.com)
   - [Retrorace](https://github.com/nwjlyons/retrorace) - Retrorace is a multiplayer game where the aim is to be the first to reach the top of the screen. [[play]](http://retrorace.neillyons.io)
 
 ## Tools
+
 - Elm 0.18
   - [hex grid pathfinding package](https://github.com/danneu/elm-hex-grid) - A hex-grid package for elm.
 - Elm 0.17
   - [tile editor](https://github.com/danneu/elm-tile-editor) - A tilemap editor built with elm.
 
 ## Miscellaneous
+
 - Elm 0.19
   - [danneu/elm-mmo](https://github.com/danneu/elm-mmo) - MMO RPG Game. [MUD](https://en.wikipedia.org/wiki/MUD)-like multiplayer game over websockets.
   - [mpizenberg/elm-videoball](https://github.com/mpizenberg/elm-videoball) - Videoball clone. Minimalist elm implementation of the game videoball. [[play]](https://mpizenberg.github.io/elm-videoball)
@@ -288,7 +309,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [Wordy](https://github.com/adamdicarlo/elm-wordy) - Spelling Game. A clone of an iOS game called [Worder](https://itunes.apple.com/us/app/worder/id295069415?mt=8).
   - [Obscura](https://github.com/saoirse-zee/obscura) - Simulation. You are a ghost in a dark universe governed by math and peopled by dullards. [[play]](http://obscura.surge.sh)
   - [Village](https://github.com/danneu/village) - incremental game. [[play]](https://www.danneu.com/village)
-  - [lucashm/elmstroyer](https://github.com/lucashm/elmstroyer) - Spaceship Game. 
+  - [lucashm/elmstroyer](https://github.com/lucashm/elmstroyer) - Spaceship Game.
   - [sd0s/elm-gallows](https://github.com/sd0s/elm-gallows) - Hangman Game. Elm UI for Hangman game.
   - [naymspace/elm-bowling-game-kata](https://github.com/naymspace/elm-bowling-game-kata) - This is an adaption of [Uncle Bob's Bowling Game Kata](http://butunclebob.com/ArticleS.UncleBob.TheBowlingGameKata).
   - [Retrorace](https://github.com/nwjlyons/retrorace) - Racing Game. A multiplayer game where the aim is to be the first to reach the top of the screen. [[play]](http://retrorace.neillyons.io)
@@ -297,9 +318,9 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [Constellations](https://github.com/jamesgary/constellations) - Planarity-inspired Game. [[play]](http://constellationsgame.com)
   - [damien-theuveny/whack-a-fraudster](https://github.com/damien-theuveny/whack-a-fraudster) - Whack a Mole Clone.
   - [xyc0562/editor-maze](https://github.com/xyc0562/editor-maze) - Maze Game.
-  - [crazymykl/elm-drench](https://github.com/crazymykl/elm-drench) -  Drench Clone. [[play]](https://crazymykl.github.io/elm-drench)
+  - [crazymykl/elm-drench](https://github.com/crazymykl/elm-drench) - Drench Clone. [[play]](https://crazymykl.github.io/elm-drench)
   - [xpilot.io](https://github.com/mpdairy/xpilot.io) - Spaceship Game. a simple xpilot-like game. [[play]](http://xpilot.io)
-  - [billstclair/mineplace](https://github.com/billstclair/mineplace) -  Maze Game. A simple networked 2.5D maze game.  [[play]](https://mineplace.social/) 
+  - [billstclair/mineplace](https://github.com/billstclair/mineplace) - Maze Game. A simple networked 2.5D maze game. [[play]](https://mineplace.social/)
   - [Boxuuume](https://github.com/rinn7e/boxuuume) - Platformer Game. A school project. [[play]](https://rinn7e.github.io/boxuuume)
   - [Janiczek/dwarves](https://github.com/Janiczek/dwarves) - Minimal Dwarf Fortress-like behaviour in Elm. [[play]](https://janiczek.github.io/dwarves/index.html)
   - [alpacaaa/elm-star-dodge](https://github.com/alpacaaa/elm-star-dodge) - Dodge Game. A simple star dodge game clone.
@@ -337,7 +358,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [Melted Synapse](https://github.com/danneu/melted-synapse) - Fighting Game. A turn-based game written in Elm that explores Frozen Synapse's game mechanics [[play]](https://www.danneu.com/melted-synapse)
   - [danneu/elm-space-arena](https://github.com/danneu/elm-space-arena) - Space Shooter. A sloppy 2D spaceship shooter. [[play]](https://www.danneu.com/elm-space-arena)
   - https://github.com/krisajenkins/transcodegame - Point&Click Adventure. A point & click adventure written. [[play]](http://krisajenkins.github.io/transcodegame)
-      - [older version (Elm 0.16)](https://github.com/krisajenkins/the-prize)
+    - [older version (Elm 0.16)](https://github.com/krisajenkins/the-prize)
   - [cabaret/elm-supercrypt](https://github.com/cabaret/elm-supercrypt) - Decryption Game. Elm implementation of [SuperCrypt](http://www.kevindecock.be/apps/supercrypt).
   - [krisajenkins/wireworld](https://github.com/krisajenkins/wireworld) - Cellular automata. The WireWorld Cellular Automata.
 - Elm 0.16
