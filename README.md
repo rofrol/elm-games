@@ -304,6 +304,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [JordyMoos/elm-pixel-boulder-game](https://github.com/JordyMoos/elm-pixel-boulder-game) - Boulder Dash Clone. A bit "out-of-hand" experiment to write a game in a pure functional language. [[play]](https://jordymoos.github.io/elm-pixel-boulder-game)
   - [wolfadex/slime-buddy](https://github.com/wolfadex/slime-buddy) - get new slime, feed it and play with it. [[play]](https://slime-buddy.netlify.com/)
   - [lwiedema/kalah-game-elm](https://github.com/lwiedema/kalah-game-elm) - Kalah: Two-Player Board Game. [[play]](http://htmlpreview.github.io/?https://github.com/lwiedema/kalah-game-elm/blob/master/kalah-game_en.html)
+  - [BKSpurgeon/numberCounter](https://github.com/BKSpurgeon/numberCounter) Number Counter: A search and click game: [[play]](https://bkspurgeon.github.io/numberCounter/)
 - Elm 0.18
   - [listrophy/space_elm](https://github.com/listrophy/space_elm) - Spaceship Game.
   - [Fedreg/elmkc-simon](https://github.com/Fedreg/elmkc-simon) - Simon Says Clone. [[play]](https://github.com/Fedreg/elmkc-simon) [[play]](https://fedreg.github.io/elmkc-simon)
