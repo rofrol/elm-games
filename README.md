@@ -293,6 +293,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 ## Miscellaneous
 
 - Elm 0.19
+  - [harbingerr/Elm-Game](https://github.com/harbingerr/Elm-Game) - 2D logic board game [[play demo]](https://radiant-bastion-69800.herokuapp.com/index.html)
   - [danneu/elm-mmo](https://github.com/danneu/elm-mmo) - MMO RPG Game. [MUD](https://en.wikipedia.org/wiki/MUD)-like multiplayer game over websockets.
   - [mpizenberg/elm-videoball](https://github.com/mpizenberg/elm-videoball) - Videoball clone. Minimalist elm implementation of the game videoball. [[play]](https://mpizenberg.github.io/elm-videoball)
   - [anicholson/elm-hangman](https://github.com/anicholson/elm-hangman) - A hangman game.
