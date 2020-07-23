@@ -250,7 +250,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [johncrane/perfect-flood](https://gitlab.com/johncrane/perfect-flood) - Drag and drop flood fill game. [[play]](https://johncrane.gitlab.io/perfect-flood/)
   - [jwbrew/elm-puzzler](https://github.com/jwbrew/elm-puzzler) - puzzle framework, there's a naieve implmentation of noughts and crosses
   - [vViktorPL/is-it-my-cow](https://github.com/vViktorPL/is-it-my-cow) - "Is it my cow?" - find your cow by it's unique patches pattern. [[play]](https://vviktor.itch.io/is-it-my-cow)
-  - [Janiczek/river-crossing](https://github.com/Janiczek/river-crossing) - River Crossing - Wolf, goat and cabbage ... [[play]](https://janiczek.itch.io/river-crossing
+  - [Janiczek/river-crossing](https://github.com/Janiczek/river-crossing) - River Crossing - Wolf, goat and cabbage ... [[play]](https://janiczek.itch.io/river-crossing)
   - [O-O-Balance/pairs](https://github.com/O-O-Balance/pairs) - Pairs - matching animals [[play]](https://o-o-balance.itch.io/pairs)
 - Elm 0.18
   - [dam5s/mastermind](https://github.com/dam5s/mastermind) - Mastermind Clone.
