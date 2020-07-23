@@ -249,6 +249,9 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [battermann/elm-samegame](https://github.com/battermann/elm-samegame) - SameGame clone. [[play]](https://samegame.surge.sh)
   - [johncrane/perfect-flood](https://gitlab.com/johncrane/perfect-flood) - Drag and drop flood fill game. [[play]](https://johncrane.gitlab.io/perfect-flood/)
   - [jwbrew/elm-puzzler](https://github.com/jwbrew/elm-puzzler) - puzzle framework, there's a naieve implmentation of noughts and crosses
+  - [vViktorPL/is-it-my-cow](https://github.com/vViktorPL/is-it-my-cow) - "Is it my cow?" - find your cow by it's unique patches pattern. [[play]](https://vviktor.itch.io/is-it-my-cow)
+  - [Janiczek/river-crossing](https://github.com/Janiczek/river-crossing) - River Crossing - Wolf, goat and cabbage ... [[play]](https://janiczek.itch.io/river-crossing
+  - [O-O-Balance/pairs](https://github.com/O-O-Balance/pairs) - Pairs - matching animals [[play]](https://o-o-balance.itch.io/pairs)
 - Elm 0.18
   - [dam5s/mastermind](https://github.com/dam5s/mastermind) - Mastermind Clone.
   - [maorleger/mastermind](https://github.com/maorleger/mastermind) - Interactive Mastermind solver algorithm. [[play]](http://haskellmind.herokuapp.com)
@@ -306,6 +309,14 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [wolfadex/slime-buddy](https://github.com/wolfadex/slime-buddy) - get new slime, feed it and play with it. [[play]](https://slime-buddy.netlify.com/)
   - [lwiedema/kalah-game-elm](https://github.com/lwiedema/kalah-game-elm) - Kalah: Two-Player Board Game. [[play]](http://htmlpreview.github.io/?https://github.com/lwiedema/kalah-game-elm/blob/master/kalah-game_en.html)
   - [BKSpurgeon/numberCounter](https://github.com/BKSpurgeon/numberCounter) Number Counter: A search and click game: [[play]](https://bkspurgeon.github.io/numberCounter/)
+  - [w0rm/elm-garden-of-eels](https://github.com/w0rm/elm-garden-of-eels) - Garden of Eels: Help eels to eat the right kind of plankton: [[play]](https://unsoundscapes.itch.io/garden-of-eels)
+  - [JoelQ/ecosystem](https://github.com/JoelQ/ecosystem) - Ecosystem: Attempt to balance an ecoystem: [[play]](https://joelq.itch.io/ecosystem)
+  - [hasuya1120/forest_maze](https://github.com/hasuya1120/forest_maze) - Forest maze: escape randomly generated labyrinth [[play]](https://hasuya.itch.io/forest-maze)
+  - [tnyo43/kirin-rhythm](https://github.com/tnyo43/kirin-rhythm) - kirin rhythm: Feed your giraffe at the tempo of fallen leaves! [[play]](https://tnyo43.itch.io/kirin-rhythm)
+  - [robvandenbogaard/giraffe](https://github.com/robvandenbogaard/giraffe) - Giraffe [[play]](https://robvandenbogaard.itch.io/giraffe)
+  - [jlengrand/sheepgame](https://github.com/jlengrand/sheepgame) - The Sheepgame [[play]](https://sheepgame.netlify.app)
+  - [miyanokomiya/the-defence-force-19](https://github.com/miyanokomiya/the-defence-force-19) - The Defence Force 19 [[play]](https://miyanokomiya.itch.io/the-defence-force-19)
+  - [negiboudu/roly-poly](https://github.com/negiboudu/roly-poly) - roly-poly [[play]](https://negiboudu.itch.io/roly-poly)
 - Elm 0.18
   - [listrophy/space_elm](https://github.com/listrophy/space_elm) - Spaceship Game.
   - [Fedreg/elmkc-simon](https://github.com/Fedreg/elmkc-simon) - Simon Says Clone. [[play]](https://github.com/Fedreg/elmkc-simon) [[play]](https://fedreg.github.io/elmkc-simon)
