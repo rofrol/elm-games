@@ -405,3 +405,4 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - [Lopi/HackMan](https://github.com/Lopi/HackMan) - Hacking Game. A game to teach users about security and penetration testing. Outdated (from 2015).
 - [sonnym/petrov](https://github.com/sonnym/petrov) - Red Button Game. Don't press the button. [[play]](http://ludumdare.com/compo/ludum-dare-28/?action=preview&uid=28886)
 - [monsieurcactus/LearnElm](https://github.com/monsieurcactus/LearnElm) A collection of one-file games.
+- [nyoronyoro](https://github.com/lucamug/elm-nyoronyoro-game) A multi-player game in Elm [play](https://nyny.surge.sh/12-add-menu)
