@@ -214,7 +214,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [alpacaaa/elm-mastermind](https://github.com/alpacaaa/elm-mastermind) - Mastermind game written in Elm. [[doc]](https://alpacaaa.net/blog/post/elm-mastermind-game)
   - [Doubleheader](https://github.com/ndreynolds/doubleheader) - A multiplayer web version of the popular German card game "Doppelkopf".
   - [Ring of Worlds](https://github.com/RoganMurley/Ring-of-Worlds) - Ring of Worlds: Multiplayer card game written in Haskell and Elm. [[play]](https://www.ringofworlds.com)
-  - [girishso/indian-chess](https://github.com/girishso/indian-chess) - 18th Century chess like game developed. [[play]](http://indianchess.info)
+  - [girishso/indian-chess](https://github.com/girishso/indian-chess) - Multiplayer 18th Century chess like game. [[play]](http://chess.indiangames.club)
   - [jinjor/elm-reversi](https://github.com/jinjor/elm-reversi) - Reversi Clone. [[play]](https://jinjor.github.io/elm-reversi)
   - [cbenz/elm-bridge-game](https://github.com/cbenz/elm-bridge-game) - Experimentations in Elm around Bridge card game using French standard. [[play]](https://cbenz.github.io/elm-bridge-game)
 - Elm 0.17
