@@ -177,6 +177,8 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Elm 0.18
   - [abadi199/elman](https://github.com/abadi199/elman) - Pac Man Clone. [[play]](https://abadi199.github.io/elman)
   - [duckmole/elm-pacman](https://github.com/duckmole/elm-pacman) - Coding-Dojo : Pacman in ELM.
+- Elm 0.16
+  - [kghandhi/pacman](https://github.com/kghandhi/pacman) - Pac Man Clone. [[play]](http://kghandhi.github.io/pacman/)
 
 ### Minesweeper
 
