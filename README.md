@@ -404,6 +404,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Elm 0.14
   - [Vessel](https://github.com/slawrence/vessel) - Autoscroller. A "tunnel" game. [[play]](http://slawrence.github.io/vessel)
   - [bamboo/take-the-blue-pills](https://github.com/bamboo/take-the-blue-pills) - Item Collecting Game. Take the blue pills Elm tutorial.
+  - [yuhe00/santas-workshop](https://github.com/yuhe00/santas-workshop) - Christmas-themed incremental game. [[play]](https://yuhe00.github.io/santas-workshop)
 - Elm 0.12
   - [GoranM/bluepill](https://github.com/GoranM/bluepill) - A small avoider game, written in Elm.
 - [mgold/Sequence-Maze](https://github.com/mgold/Sequence-Maze) - Educational Game. A game for small children. Outdated (from 2014).
