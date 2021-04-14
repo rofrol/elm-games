@@ -209,6 +209,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
 - Elm 0.19
   - [kburton/elm-yahtzee](https://github.com/kburton/elm-yahtzee) - An implementation of the dice game Yahtzee written in elm. [[play]](https://elm-yahtzee.kappasoft.net)
   - [RobStallion/chess-elm](https://github.com/RobStallion/chess-elm) - Trying to create a chess game in elm.
+  - [qdice.wtf](https://github.com/gipsy-king/qdice) - KDice clone, fully working multiplayer. [[play]](https://qdice.wtf)
 - Elm 0.18
   - [Depths](https://github.com/seagreen/depths) - Casual, single-player strategy game.
   - [topher6345/blackjack-elm](https://github.com/topher6345/blackjack-elm) Blackjack Card Game. [[play]](https://simple-blackjack-in-elm.herokuapp.com)
