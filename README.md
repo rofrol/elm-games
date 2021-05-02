@@ -63,6 +63,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [TobiasWen/3DelmTRIS](https://github.com/TobiasWen/3DelmTRIS) - 3D Tetris utilizing WebGL. [[play]](https://tobiaswen.github.io/3DelmTRIS/)
   - [brandly/elm-dr-mario](https://github.com/brandly/elm-dr-mario) - A Dr. Mario Clone. [[play]](https://brandly.github.io/elm-dr-mario)
   - [w0rm/elm-flatris](https://github.com/w0rm/elm-flatris) - A [Flatris](https://github.com/skidding/flatris) clone. [[play]](https://unsoundscapes.itch.io/flatris)
+  - [yonigibbs/yaet](https://github.com/yonigibbs/yaet) - Yet another Elm Tetris. [[play]](https://yonigibbs.github.io/yaet/)
 - Elm 0.18
   - [stil4m/elm-tetris](https://github.com/stil4m/elm-tetris) - Tetris game.
   - [vishalgautamm/tetris-elm](https://github.com/vishalgautamm/tetris-elm) - Classic Tetris game.
