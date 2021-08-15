@@ -321,6 +321,7 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [jlengrand/sheepgame](https://github.com/jlengrand/sheepgame) - The Sheepgame [[play]](https://sheepgame.netlify.app)
   - [miyanokomiya/the-defence-force-19](https://github.com/miyanokomiya/the-defence-force-19) - The Defence Force 19 [[play]](https://miyanokomiya.itch.io/the-defence-force-19)
   - [negiboudu/roly-poly](https://github.com/negiboudu/roly-poly) - roly-poly [[play]](https://negiboudu.itch.io/roly-poly)
+  - [stphnlyd/elm-gol](https://github.com/stphnlyd/elm-gol) - Celluar Automata. Conway's Game of Life. [[play]](https://stphnlyd.github.io/elm-gol/)
 - Elm 0.18
   - [listrophy/space_elm](https://github.com/listrophy/space_elm) - Spaceship Game.
   - [Fedreg/elmkc-simon](https://github.com/Fedreg/elmkc-simon) - Simon Says Clone. [[play]](https://github.com/Fedreg/elmkc-simon) [[play]](https://fedreg.github.io/elmkc-simon)
