@@ -117,6 +117,8 @@ There is also separate repository for gamedev: [Elm Game Development](https://gi
   - [dackerman/elm-mario-2](https://github.com/dackerman/elm-mario-2) - Modified mario game based on Evan's Mario.elm example.
 - Elm 0.12
   - [Evan's Mario Example](https://github.com/elm-lang/debug.elm-lang.org/blob/master/examples/Mario.elm) [[resources]](https://github.com/elm-lang/debug.elm-lang.org/tree/master/resources/imgs/mario) - Original example for mario in elm.
+- Elm 0.16
+  - [bigbuger/Elm-Mario](https://github.com/bigbuger/Elm-Mario) - Modified mario game based on Mario.elm example, add  brick and coins. [[play]](http://bigbuger.github.io/Elm-Mario/)
 
 ### Tic Tac Toe
 
